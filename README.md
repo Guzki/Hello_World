@@ -3,6 +3,6 @@ This is the my first repo
 
 This is an edit through the console.
 
-##Guzki
+## Guzki
 
 This is another edit.
